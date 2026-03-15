@@ -1,5 +1,5 @@
 Code for Loan-Approval-Prediction competition on kaggle classification problem):
-I/ SDE and Preprocess
+I/ EDA and Preprocess
   1/ Import and clean data.
   2/ Feature engineering, label encoder, feature importance
   
